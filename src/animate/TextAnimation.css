@@ -1,0 +1,47 @@
+/* TextAnimation.css */
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Geologic', sans-serif;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+.animated-text {
+    position: relative;
+    display: inline-block;
+    color: #ff8800;
+    height: 1.5em;
+    vertical-align: bottom;
+    overflow: hidden;
+}
+
+.animated-text>span {
+    display: block;
+    animation: animateWords 8.5s infinite ease-in;
+}
+
+@keyframes animateWords {
+    0% {
+        transform: translateY(0%);
+    }
+    25% {
+        transform: translateY(-100%);
+    }
+    50% {
+        transform: translateY(-200%);
+    }
+    75% {
+        transform: translateY(-300%);
+    }
+    100% {
+        transform: translateY(-400%);
+    }
+}
