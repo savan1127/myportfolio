@@ -1,4 +1,4 @@
-# 🌟 MyPortfolio – Personal Developer Portfolio
+# 🚀 MyPortfolio – Personal Developer Portfolio
 
 Welcome to my personal portfolio website built with **React**, **Tailwind CSS**, and **Vite**. This project showcases my skills in frontend development, UI animation and SMS to using a Formspree.
 
