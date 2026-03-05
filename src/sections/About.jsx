@@ -78,7 +78,7 @@ const About = () => {
   className="relative inline-flex items-center gap-2 px-6 py-3 rounded-full font-semibold tracking-wide text-white bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 shadow-lg transition-transform duration-300 hover:scale-105 hover:shadow-xl animate-pulse"
 >
   <FaDownload className="text-lg" />
-  <span className="z-10">Download My CV</span>
+  <span className="z-10">Download CV</span>
   
 
   {/* Glow Ring Animation */}
