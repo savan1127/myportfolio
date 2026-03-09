@@ -44,9 +44,9 @@ const About = () => {
           </p>
 
           <p className="text-base leading-relaxed">
-            I’m <span className="font-bold text-blue-200">Savan Rathod</span>, a passionate front-end developer and UI/UX designer in training, currently expanding into backend development with Node.js. I completed my 12th Science in 2019 and earned my Diploma in Information Technology in 2026 from Government Polytechnic College, Rajkot. I’ve also completed front-end development training at Felix-IT Solutions, where I mastered responsive design, modern frameworks, and the art of building visually refined web experiences.
-          </p>
-
+            I’m <span className="font-bold text-blue-200">Savan Rathod</span>, a passionate Front-End Developer and UI/UX designer in training, currently expanding my skills into backend development with Node.js. I completed my 12th Science in 2019 and earned my Diploma in Information Technology in 2026 from Government Polytechnic College, Rajkot. I also completed front-end development training at Felix-IT Solutions, where I learned responsive design, modern frameworks, and how to build visually refined web experiences.
+Additionally, I completed a 3-month internship at Devoq Design as a Front-End Developer, where I learned Unbounce and worked on live landing page projects, gaining practical experience in building and optimizing marketing pages.</p>
+            
           {/* Info Grid */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 py-6 text-base sm:text-lg text-white dark:text-gray-400">
             <div className="flex items-center gap-2">
