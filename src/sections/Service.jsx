@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-
 import { MdDesignServices, MdSpeed } from 'react-icons/md';
 import { HiOutlineLightBulb, HiOutlineDeviceMobile } from 'react-icons/hi';
 import { FaLaptopCode, FaTools } from 'react-icons/fa';
@@ -70,7 +69,7 @@ const Service = () => {
   return (
     <section
       id="services"
-      className="min-h-screen py-20 px-4 sm:px-6 md:px-12 lg:px-20 bg-gradient-to-r from-black via-gray-900 to-gray-800 bg-fixed bg-cover bg-center text-white"
+      className="min-h-200 py-20 px-4 sm:px-6 md:px-12 lg:px-20 bg-gradient-to-r from-black via-gray-900 to-gray-800 bg-fixed bg-cover bg-center text-white"
     >
       <div className="w-full max-w-6xl mx-auto">
         {/* Heading */}
