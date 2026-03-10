@@ -13,26 +13,23 @@ const allSkills =  [
   { name: 'CSS 3', category: 'Tech', icon: <FaCss3Alt />, level: 90, color: 'bg-blue-500' },
   { name: 'JavaScript', category: 'Tech', icon: <FaJsSquare />, level: 85, color: 'bg-yellow-400' },
   { name: 'React JS', category: 'Tech', icon: <FaLaptopCode />, level: 80, color: 'bg-cyan-500' },
-  { name: 'Next JS', category: 'Tech', icon: <FaLaptopCode />, level: 75, color: 'bg-gray-400' },
   { name: 'Bootstrap 5', category: 'Tech', icon: <FaBootstrap />, level: 85, color: 'bg-purple-500' },
   { name: 'Tailwind CSS', category: 'Tech', icon: <FaLaptopCode />, level: 88, color: 'bg-teal-400' },
 
   // Design
   { name: 'Figma to HTML', category: 'Design', icon: <FaFigma />, level: 80, color: 'bg-pink-400' },
   { name: 'Responsive Design', category: 'Design', icon: <FaLaptopCode />, level: 92, color: 'bg-green-400' },
-  { name: 'Hosting & Domain', category: 'Design', icon: <FaLaptopCode />, level: 70, color: 'bg-indigo-400' },
   { name: 'Single Page App', category: 'Design', icon: <FaLaptopCode />, level: 78, color: 'bg-red-400' },
+  { name: 'Landing page', category: 'Design', icon: <FaLaptopCode />, level: 85, color: 'bg-red-400' },
 
   // Tools
   { name: 'GitHub', category: 'Tools', icon: <FaGithub />, level: 85, color: 'bg-gray-600' },
-  { name: 'WordPress', category: 'Tools', icon: <FaLaptopCode />, level: 65, color: 'bg-blue-300' },
+  { name: 'Unbounce', category: 'Tools', icon: <FaLaptopCode />, level: 95, color: 'bg-blue-300' },
   { name: 'Netlify', category: 'Tools', icon: <FaLaptopCode />, level: 70, color: 'bg-green-300' },
-  { name: 'Stack Overflow', category: 'Tools', icon: <FaLaptopCode />, level: 90, color: 'bg-orange-300' },
-  { name: 'Canva', category: 'Tools', icon: <FaLaptopCode />, level: 75, color: 'bg-pink-300' },
-  { name: 'Adobe Express', category: 'Tools', icon: <FaLaptopCode />, level: 70, color: 'bg-red-300' },
   { name: 'Freepik', category: 'Tools', icon: <FaLaptopCode />, level: 80, color: 'bg-yellow-300' },
-  { name: 'PosterMyWall', category: 'Tools', icon: <FaLaptopCode />, level: 65, color: 'bg-purple-300' },
   { name: 'ChatGPT', category: 'Tools', icon: <FaLaptopCode />, level: 95, color: 'bg-green-500' },
+  { name: 'Gemini', category: 'Tools', icon: <FaLaptopCode />, level: 75, color: 'bg-green-500' },
+  { name: 'Z.ai', category: 'Tools', icon: <FaLaptopCode />, level: 80, color: 'bg-green-500' },
   { name: 'Copilot', category: 'Tools', icon: <FaLaptopCode />, level: 95, color: 'bg-blue-500' },
 ];
 const categories = ['All', 'Tech', 'Design', 'Tools'];
